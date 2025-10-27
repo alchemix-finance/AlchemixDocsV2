@@ -1,41 +1,34 @@
-# 📜 Alchemix
+# Alchemix
 
-Alchemix lets you instantly access loans representing your collateral's future yield. Over time, the interest your deposit earns is used to repay your debt automatically. Alchemix loans are self-repaying, interest-free, and non-liquidating.
+Alchemix is a self-repaying DeFi protocol that lets you convert future yield into liquid capital today. Deposited collateral accrues yield over time, which automatically repays the associated debt — no compulsory liquidations.
 
-> _**Alchemix gives you DeFi loans that transform future yield into present-day capital.**_
+## Quickstart
+1. Deposit: Supply collateral to your chosen yield strategy.
+2. Borrow: Mint alAssets against your deposited collateral.
+3. Swap: Trade alAssets on a DEX or aggregator if you need different exposure.
+4. Wait / Repay / Withdraw: Yield from the strategy repays your debt over time. You can also manually repay or withdraw collateral when available.
 
-Explore Alchemix's diverse collateral strategies to find the best self-repaying loan for you on our [main website](https://alchemix.fi/).
+## Why Alchemix?
+- Access future yield immediately
+- Multiple collateral and yield strategies
+- No forced liquidations
+- Instant liquidity with flexible management
 
-## **The Benefits of Alchemix**
+## Important Links
+- Table of contents: [SUMMARY.md](SUMMARY.md)  
+- Documentation index: [directory/README.md](directory/README.md)  
+- How-to guides: [resources/how-to/README.md](resources/how-to/README.md)  
+  - Example: [Repay your loan](resources/how-to/repay-your-loan.md)  
+- Guides: [resources/guides/README.md](resources/guides/README.md)  
+- Ecosystem overview: [alchemix-ecosystem/overview.md](alchemix-ecosystem/overview.md)  
+- DAO info: [alchemix-dao/the-alchemix-dao/README.md](alchemix-dao/the-alchemix-dao/README.md)
 
-* **Maximize Your Assets:** Maintain exposure to your yield-bearing assets while accessing immediate value—spend your future yield today.
-* **Diverse Collateral Strategies:** Complete flexibility to choose between any integrated yield strategies.
-* **No Forced Liquidations:** Your loan can't be forcibly closed by anyone, not even the protocol. You can self-liquidate anytime by repaying your debt with your collateral.
-* **Complete Freedom:** Your position remains accessible at all times, with no locking or deposit/withdrawal fees. You can repay your debt whenever you choose or let it repay itself over time.
+## Contributing
+- Review the project structure and [SUMMARY.md](SUMMARY.md) before making changes.
+- Open a PR for content updates; explain what changed and why in the PR description.
+- Follow existing docs style and file organization.
 
-<figure><img src=".gitbook/assets/PlainLine_01.png" alt=""><figcaption></figcaption></figure>
+## Support
+- For chat/support links, see: [directory/README.md](directory/README.md)
 
-## **Get Your First Self-Repaying Loan**
-
-* [Watch the Alchemix cinematic ad](https://www.youtube.com/embed/FlWP9FC8C3c?autoplay=1)
-* [Borrow using Alchemix](https://alchemix.fi/)
-
-## Quick Start Guide
-
-1. **Deposit to Earn & Borrow**\
-   Deposit your collateral into your preferred yield strategy to start earning interest, and be able to take out a loan. Use your deposit to borrow and receive alAssets while your deposit earns interest.
-2. **Swap alAsset**\
-   Swap the alAsset to any other token via a DEX or DEX Aggregator to access the value of your loan. alAssets can also be used directly on some DeFi protocols.
-3. **Wait, Withdraw, Borrow, Repay, or Self-Liquidate**\
-   Your chosen yield strategy will earn interest on the full initial deposit. When the chosen strategy earns yield, your share of the yield is used to repay your debt over time automatically. Manage your loan as needed, with the flexibility to withdraw principal, borrow more, repay, or self-liquidate at any time.
-
-<figure><img src=".gitbook/assets/01_02.png" alt=""><figcaption><p><strong>The Alchemist Flow.</strong> Deposit your collateral to Alchemix to earn credit, borrow synthetic assets to spend, or save your capital and let your credit accrue.</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/02_02 (1).png" alt=""><figcaption><p><strong>Alchemix Collateral.</strong> These are the types of underlying collateral assets that Alchemix supports. Alchemix offers a diverse selection of yield strategies for each underlying asset.</p></figcaption></figure>
-
-## Learn more
-
-> * [guides](resources/guides/ "mention")
-> * [how-to](resources/how-to/ "mention")
-
-<figure><img src=".gitbook/assets/Header_01.png" alt=""><figcaption></figcaption></figure>
+<!-- Concise, newcomer-friendly intro with links to deeper docs. -->
