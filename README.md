@@ -27,7 +27,7 @@ Explore Alchemix's diverse collateral strategies to find the best self-repaying 
 2. **Swap alAsset**\
    Swap the alAsset to any other token via a DEX or DEX Aggregator to access the value of your loan. alAssets can also be used directly on some DeFi protocols.
 3. **Wait, Withdraw, Borrow, Repay, or Self-Liquidate**\
-   Your chosen yield strategy will earn interest on the full initial deposit. When the chosen strategy earns yield, your share of the yield is used to repay your debt over time automatically. Manage your loan as needed, with the flexibility to withdraw principal, borrow more, repay, or self-liquidate at any time.
+   Your chosen yield strategy will earn interest on the full initial deposit. When the chosen strategy earns yield, your share of the yield is used to repay your debt over time automatically. Manage your loan as needed, with the flexibility to withdraw principal, borrow more, repay, or self liquidate at any time.
 
 <figure><img src=".gitbook/assets/01_02.png" alt=""><figcaption><p><strong>The Alchemist Flow.</strong> Deposit your collateral to Alchemix to earn credit, borrow synthetic assets to spend, or save your capital and let your credit accrue.</p></figcaption></figure>
 
