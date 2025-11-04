@@ -8,7 +8,7 @@ Explore Alchemix's diverse collateral strategies to find the best self-repaying 
 
 ## **The Benefits of Alchemix**
 
-* **Maximize Your Assets:** Maintain exposure to your yield-bearing assets while accessing immediate value—spend your future yield today.
+* **Maximize Your Assets:** Maintain exposure to your yield-bearing assets while accessing immediate value — spend your future yield today.
 * **Diverse Collateral Strategies:** Complete flexibility to choose between any integrated yield strategies.
 * **No Forced Liquidations:** Your loan can't be forcibly closed by anyone, not even the protocol. You can self-liquidate anytime by repaying your debt with your collateral.
 * **Complete Freedom:** Your position remains accessible at all times, with no locking or deposit/withdrawal fees. You can repay your debt whenever you choose or let it repay itself over time.
@@ -22,20 +22,20 @@ Explore Alchemix's diverse collateral strategies to find the best self-repaying 
 
 ## Quick Start Guide
 
-1. **Deposit to Earn & Borrow**\
-   Deposit your collateral into your preferred yield strategy to start earning interest, and be able to take out a loan. Use your deposit to borrow and receive alAssets while your deposit earns interest.
-2. **Swap alAsset**\
+1. **Deposit to Earn & Borrow**  
+   Deposit your collateral into your preferred yield strategy to start earning interest and be able to take out a loan. Use your deposit to borrow and receive alAssets while your deposit earns interest.
+2. **Swap alAsset**  
    Swap the alAsset to any other token via a DEX or DEX Aggregator to access the value of your loan. alAssets can also be used directly on some DeFi protocols.
-3. **Wait, Withdraw, Borrow, Repay, or Self-Liquidate**\
-   Your chosen yield strategy will earn interest on the full initial deposit. When the chosen strategy earns yield, your share of the yield is used to repay your debt over time automatically. Manage your loan as needed, with the flexibility to withdraw principal, borrow more, repay, or self-liquidate at any time.
+3. **Wait, Withdraw, Borrow, Repay, or Self-Liquidate**  
+   Your chosen yield strategy will earn interest on the full initial deposit. When the strategy earns yield, your share of the yield is used to repay your debt automatically over time. Manage your loan as needed, with the flexibility to withdraw principal, borrow more, repay, or self-liquidate at any time.
 
 <figure><img src=".gitbook/assets/01_02.png" alt=""><figcaption><p><strong>The Alchemist Flow.</strong> Deposit your collateral to Alchemix to earn credit, borrow synthetic assets to spend, or save your capital and let your credit accrue.</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/02_02 (1).png" alt=""><figcaption><p><strong>Alchemix Collateral.</strong> These are the types of underlying collateral assets that Alchemix supports. Alchemix offers a diverse selection of yield strategies for each underlying asset.</p></figcaption></figure>
 
-## Learn more
+## Learn More
 
-> * [guides](resources/guides/ "mention")
-> * [how-to](resources/how-to/ "mention")
+> * [Guides](resources/guides/ "mention")
+> * [How-To](resources/how-to/ "mention")
 
 <figure><img src=".gitbook/assets/Header_01.png" alt=""><figcaption></figcaption></figure>
