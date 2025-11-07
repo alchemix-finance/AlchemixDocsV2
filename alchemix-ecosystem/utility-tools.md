@@ -19,20 +19,29 @@ layout:
 
 # 🛠️ Utility Tools
 
-Alchemix has utility tools that are built by 3rd parties. These tools have no guarantee of audit, review, ownership, or maintenance by Alchemix and you can find them on the [utilities page on the website](https://alchemix.fi/utilities).
+Alchemix provides a collection of third-party utility tools that help users interact with the ecosystem in different ways.  
+Please note that these tools are **not audited, maintained, or owned** by the Alchemix team. You can explore them on the [Utilities page](https://alchemix.fi/utilities).
 
+---
 
+### 📊 Statistics
 
-### Statistics
-
-Alchemix keeps an extensive statistical data dashboard where you can find all the information related to vaults, staking, treasury, and more!&#x20;
+Alchemix offers an extensive statistics dashboard where you can explore key metrics for **vaults, staking, treasury, and more**.
 
 {% embed url="https://alchemix-stats.com/" %}
 
-Additionally, you can find more information about Alchemix at:
+---
 
-* [Revelo Intel - Alchemix Breakdown](https://revelointel.com/project-breakdown/alchemix)
-* [Dashboard made by AlphaBay](https://app.alphaday.com/b/alchemix/)
-* [DeFi Llama](https://defillama.com/protocol/alchemix#information)
+### 📚 Additional Analytics and Dashboards
 
-<figure><img src="../.gitbook/assets/header_02_test (1).png" alt=""><figcaption></figcaption></figure>
+For more insights and analytics about Alchemix, visit:
+
+* [Revelo Intel — Alchemix Breakdown](https://revelointel.com/project-breakdown/alchemix)
+* [AlphaBay Dashboard](https://app.alphaday.com/b/alchemix/)
+* [DeFi Llama — Alchemix Overview](https://defillama.com/protocol/alchemix#information)
+
+---
+
+<figure>
+  <img src="../.gitbook/assets/header_02_test (1).png" alt="Alchemix Utility Tools Banner">
+</figure>
